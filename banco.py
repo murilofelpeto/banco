@@ -1,7 +1,4 @@
-# Linguagem de Programação II
-# AC03 ADS-EaD - Banco
-#
-# Email:gilda.costa@aluno.faculdadeimpacta.com.br
+#Banco
 
 from typing import Union, List, Dict
 
